@@ -2,6 +2,103 @@
   "identity": {
     "file_name": "identity.json"
   },
+
+    "cell_data_part_1": {
+  "file_name": "cell_data_part_1.json"
+},
+    "cell_data_part_2": {
+  "file_name": "cell_data_part_2.json"
+},
+    "cell_data_part_3": {
+  "file_name": "cell_data_part_3.json"
+},
+    "cell_data_part_4": {
+  "file_name": "cell_data_part_4.json"
+},
+    "cell_data_part_5": {
+  "file_name": "cell_data_part_5.json"
+},
+    "cell_data_part_6": {
+  "file_name": "cell_data_part_6.json"
+},
+    "cell_data_part_7": {
+  "file_name": "cell_data_part_7.json"
+},
+    "cell_data_part_8": {
+  "file_name": "cell_data_part_8.json"
+},
+    "cell_data_part_9": {
+  "file_name": "cell_data_part_9.json"
+},
+  "cell_data_part_10": {
+  "file_name": "cell_data_part_10.json"
+},
+  "limb-muscle_cell_data_part_1": {
+  "file_name": "limb-muscle_cell_data_part_1.json"
+},
+    "limb-muscle_cell_data_part_2": {
+  "file_name": "limb-muscle_cell_data_part_2.json"
+},
+    "limb-muscle_cell_data_part_3": {
+  "file_name": "limb-muscle_cell_data_part_3.json"
+},
+    "limb-muscle_cell_data_part_4": {
+  "file_name": "limb-muscle_cell_data_part_4.json"
+},
+    "limb-muscle_cell_data_part_5": {
+  "file_name": "limb-muscle_cell_data_part_5.json"
+},
+    "limb-muscle_cell_data_part_6": {
+  "file_name": "limb-muscle_cell_data_part_6.json"
+},
+    "limb-muscle_cell_data_part_7": {
+  "file_name": "limb-muscle_cell_data_part_7.json"
+},
+    "limb-muscle_cell_data_part_8": {
+  "file_name": "limb-muscle_cell_data_part_8.json"
+},
+    "limb-muscle_cell_data_part_9": {
+  "file_name": "limb-muscle_cell_data_part_9.json"
+},
+  "limb-muscle_cell_data_part_10": {
+  "file_name": "limb-muscle_cell_data_part_10.json"
+},
+  "bladder_cell_data_part_1": {
+  "file_name": "bladder_cell_data_part_1.json"
+},
+  "bladder_cell_data_part_2": {
+  "file_name": "bladder_cell_data_part_2.json"
+},
+  "bladder_cell_data_part_3": {
+  "file_name": "bladder_cell_data_part_3.json"
+},
+  "bladder_cell_data_part_4": {
+  "file_name": "bladder_cell_data_part_4.json"
+},
+  "bladder_cell_data_part_5": {
+  "file_name": "bladder_cell_data_part_5.json"
+},
+  "bladder_cell_data_part_6": {
+  "file_name": "bladder_cell_data_part_6.json"
+},
+  "bladder_cell_data_part_7": {
+  "file_name": "bladder_cell_data_part_7.json"
+},
+  "bladder_cell_data_part_8": {
+  "file_name": "bladder_cell_data_part_8.json"
+},
+  "bladder_cell_data_part_9": {
+  "file_name": "bladder_cell_data_part_9.json"
+},
+  "bladder_cell_data_part_10": {
+  "file_name": "bladder_cell_data_part_9.json"
+},
+  "alpaca_en_demo": {
+    "file_name": "alpaca_en_demo.json"
+  },
+  "alpaca_zh_demo": {
+    "file_name": "alpaca_zh_demo.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
